@@ -1,0 +1,176 @@
+/* спецификация*/
+body{
+    font-family: 'Roboto Slab', serif;
+}
+ul, li{
+display: block;
+padding: 0;
+margin: 0;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+    color: black;
+}
+h3{
+    font-weight: 400;
+}
+/*первый экран*/
+header{
+    background:#9EBF88;
+    color: black;
+    padding-top: 58px;
+    padding-bottom: 105px;
+}
+.menu__item{
+margin: 0 57px;
+}
+.menu__item a{
+font-size: 22px;
+font-weight: 700;
+color: black;
+}
+/* второй экран*/
+.offer{
+margin-top: 127px;
+}
+.offer__title{
+font-size: 32px;
+margin-bottom: 6px;
+}
+.offer__text{
+    font-size: 16px;
+    margin-top: 11px;
+    color: black;
+}
+.van{
+    display: block;
+    margin:60px auto 0;
+}
+.title{
+padding-top: 100px;
+padding-bottom: 70px;
+text-align: center;
+}
+.title__main{
+font-size: 32px;
+}
+.title__text{
+font-size: 20px;
+width: 750px;
+margin:0 auto;
+}
+.content{
+    padding-bottom: 80px;
+    text-align: center;
+}
+.touch{
+    background:#548060;
+    color: black;
+}
+.form{
+text-align: center;
+}
+.form__input{
+background: white;
+font-size: 16px;
+border-radius: 5px;
+width: 580px;
+padding: 15px 0;
+margin-right: 21px;
+border: 0;
+padding-left: 33px;
+outline: none;
+
+}
+.form__btn{
+font-size: 14px;
+font-weight: 700;
+border-radius: 5px;
+width: 126px;
+border: 0;
+padding: 15px 0;
+cursor: pointer;
+
+}
+.footer{
+    background:#548060 ;
+    padding: 50px 0 94px;
+
+}
+.credits{
+    color: black;
+    font-size: 16px;
+    width: 184px;
+    margin: 0 auto;
+    text-align: center;
+}
+.chilhood{
+  text-align: center;
+}
+.child{
+    text-align: center;
+    margin-top: 30px;
+}
+.artist{
+    text-align: center;
+    margin-top: 50px;
+}
+.artist-text{
+    text-align: center;
+    margin-top: 30px;
+}
+.death{
+text-align: center;
+margin-top: 50px;
+}
+.death-text{
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+.galery{
+    background-color: #cdf1d6;
+}
+.ufkthtz{
+    text-align: center;
+    margin-top: 50px;
+}
+.photo1{
+padding-left: 30px;
+margin-top: 30px;
+}
+.photo2{
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.photo3{
+    padding-left: 10px;
+    margin-top: 30px;
+    padding-right: 50px;
+}
+.photo4{
+    padding-left: 30px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    }
+    .photo5{
+        padding-left: 10px;
+        margin-top: 10px;
+        padding-bottom: 20px;
+    }
+    .photo6{
+        padding-left: 10px;
+        margin-top: 10px;
+        padding-right: 50px;
+        padding-bottom: 20px;
+    }
+    .van1{
+        padding-top: 120px;
+    }
+    .fact{
+        text-align: center;
+        margin-top: 60px;
+    }
